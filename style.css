@@ -1,0 +1,20 @@
+p { text-align:justify; font-size:16px; font-family:avenir; }
+/*
+color:#000000; text-align:left; vertical-align:top; */
+.heading-selected {font-family:avenir; font-size:28px}
+.heading-selected A:link {color:#000000; text-decoration: none}
+.heading-selected A:visited {color:#000000; text-decoration: none}
+.heading-selected A:active {color:#000000; text-decoration: none}
+.heading-selected A:hover {color:#000000; text-decoration: none}
+
+.heading-main {color:#a0a0a0; font-family:avenir; font-size:28px}
+.heading-main A:link {color:#a0a0a0; text-decoration: none}
+.heading-main A:visited {color:#a0a0a0; text-decoration: none}
+.heading-main A:active {color:#000000; text-decoration: none}
+.heading-main A:hover {color:#000000; text-decoration: none}
+
+.subheading {font-family:avenir; font-size:20px}
+.subheading A:link {color:#000000; text-decoration: none}
+.subheading A:visited {color:#000000; text-decoration: none}
+.subheading A:active {color:#000000; text-decoration: none}
+.subheading A:hover {color:#000000; text-decoration: none}
